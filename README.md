@@ -67,12 +67,12 @@ No unnecessary BS — just **good systems** that **feel right**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=scriptleon&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptleon&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=scriptsleon&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptsleon&layout=compact&hide_border=true&theme=tokyonight" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=scriptleon&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=scriptsleon&theme=tokyonight&hide_border=true" />
 
 </div>
 
