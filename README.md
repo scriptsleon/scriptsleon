@@ -8,11 +8,11 @@
   <br/>
 
   <!-- Badges -->
-  <img src="https://img.shields.io/badge/Lua-0b6aff?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lua-0b6aff?style=for-the-badge&logo=lua&logoColor=gold" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=gold" />
+  <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=gold" />
+  <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=gold" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=gold" />
 
   <br/><br/>
 
