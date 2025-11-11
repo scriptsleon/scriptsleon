@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Leon Scripts Logo" width="180" height="180" />
+  <img src="logo_compressed.png" alt="Leon Scripts Logo" width="180" height="180" />
   <h1>Leon Script</h1>
 
   <p><strong>Kóduju FiveM Scripty • Snílek • Pohodář</strong></p>
